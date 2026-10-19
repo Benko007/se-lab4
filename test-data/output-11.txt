@@ -1,0 +1,2 @@
+SUCCESS
+Unknown firing mode: 'EGYIKSEM'
